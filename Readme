@@ -1,0 +1,4 @@
+15.8 3 The C++ Programming Language - Stroustrup exercise
+
+Implementation of a Reversi game player.
+Using max-min algorithm with alpha-beta pruning.
